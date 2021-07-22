@@ -1,11 +1,16 @@
 # Pet food table ant water barrier legs
 
+
 Do you have some impossible to get rid of ants that like to get to your pet food? You might have problems, but ants have the problem of not being able to swim. 
 
 This is a leg that has a cup built around it so you can fill it with water so the ant can't climb up the leg. Take a board that is big enough to hold your pet food (and possibly your pet) drill 4 holes in it and insert the legs underneath. 
 
 The legs also have a hole down the center and a funnel you can slide in to fill them with water without having to take the legs out of the table. 
 
+![](./real-life-images/2021-07-15 15.51.11.jpg)
+![](./real-life-images/2021-07-15 15.51.27.jpg)
+![](./real-life-images/2021-07-21 19.11.33.jpg)
+![](./real-life-images/2021-07-21 19.12.50.jpg)
 ## Printing:
 
 High accuracy isn't needed here, and I used a .6 nozzle and in Cura I put the quality profile as "draft 0.32" with PLA. This made the print time way lower, and a wider nozzle makes a stronger print. Infill was 20%.
