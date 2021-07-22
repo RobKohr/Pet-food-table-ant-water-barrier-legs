@@ -7,10 +7,6 @@ This is a leg that has a cup built around it so you can fill it with water so th
 
 The legs also have a hole down the center and a funnel you can slide in to fill them with water without having to take the legs out of the table. 
 
-![](./real-life-images/2021-07-15 15.51.11.jpg)
-![](./real-life-images/2021-07-15 15.51.27.jpg)
-![](./real-life-images/2021-07-21 19.11.33.jpg)
-![](./real-life-images/2021-07-21 19.12.50.jpg)
 ## Printing:
 
 High accuracy isn't needed here, and I used a .6 nozzle and in Cura I put the quality profile as "draft 0.32" with PLA. This made the print time way lower, and a wider nozzle makes a stronger print. Infill was 20%.
@@ -29,5 +25,16 @@ https://www.thingiverse.com/thing:36980
 * Some caps for the holes
 * Bigger funnel (maybe just the size to fill the cup)
 * Better floating rings (bigger so more space inside)
+
+Feel free to make pull requests to https://github.com/RobKohr/Pet-food-table-ant-water-barrier-legs or do remixes on thingverse. 
+
+
+![img](real-life-images/2021-07-15&#32;15.51.11.jpg)
+
+![img](real-life-images/2021-07-15&#32;15.51.27.jpg)
+
+![img](real-life-images/2021-07-21&#32;19.11.33.jpg)
+
+![img](real-life-images/2021-07-21&#32;19.12.50.jpg)
 
 
