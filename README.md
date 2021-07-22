@@ -28,6 +28,7 @@ https://www.thingiverse.com/thing:36980
 
 Feel free to make pull requests to https://github.com/RobKohr/Pet-food-table-ant-water-barrier-legs or do remixes on thingverse. 
 
+Tinkercad original models:  https://www.tinkercad.com/things/imu6EVWyWsC 
 
 ![img](real-life-images/2021-07-15&#32;15.51.11.jpg)
 
